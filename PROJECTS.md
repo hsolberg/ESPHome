@@ -29,4 +29,11 @@ TODO
 #### Temperature and Humidity
 
 
-## TODO
+## Remotely controlled powerplugs
+
+- Sonoff s20
+
+### Config-files
+TODO
+
+
