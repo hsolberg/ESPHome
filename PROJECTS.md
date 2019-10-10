@@ -27,7 +27,9 @@ TODO
 #### Plantsensor
 
 #### Temperature and Humidity
-
+| |
+|----|
+| ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) |
 
 ## Remotely controlled powerplugs
 
@@ -39,5 +41,4 @@ TODO
 
 ### Config-files
 TODO
-
 
