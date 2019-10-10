@@ -1,11 +1,13 @@
 # ESPHome
 
-My list of parts in stock and what I've ordered so far.
+## List of parts
 
-# ESPHome config
+My [list of parts](PARTS.md) in stock and what I've ordered so far.
+
+## ESPHome config
 
 Will be added later.
 
-# Usecases
+## Usecases
 
 Will be added later.
