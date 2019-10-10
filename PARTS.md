@@ -5,7 +5,7 @@
 | ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  | ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
 | ![Sonoff S20](images/sonoff_s20.jpg) | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) |
 | ![LM1117](images/LM1117.jpg) | ![antenna](images/antenna.jpg) | ![doorbell chime](images/doorbell_chime.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) |
-| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | | | |
+| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) | | |
 
 
 ## In stock
