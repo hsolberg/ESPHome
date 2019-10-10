@@ -4,7 +4,7 @@
 | ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
 | ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  | ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
 | ![Sonoff S20](images/sonoff_s20.jpg) | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) |
-|![LM1117](images/LM1117.jpg) | | | |
+|![LM1117](images/LM1117.jpg) | ![antenna](images/antenna.jpg) | | |
 
 ## In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
