@@ -1,4 +1,9 @@
 # Parts
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
+| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  |  |  |
+
 ## In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
 - 120pcs x 5 [Dupont wires](https://www.aliexpress.com/item/32800085018.html) -
@@ -15,6 +20,8 @@
 
 ## Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
+
+![toolset](images/toolset.jpg)
 
 ## Ordered
 - 3x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
