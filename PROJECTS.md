@@ -10,8 +10,13 @@
 - Relay-board
 - Doorbell Chime
 
+### Config-files
+TODO
 
 ## Bluetooth tracking hub
+- ESP32 Board with:
+  - Bluetooth
+  - WiFi
 
 ### Track presence
 
@@ -24,4 +29,4 @@
 #### Temperature and Humidity
 
 
-## 
+## TODO
