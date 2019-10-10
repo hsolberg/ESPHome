@@ -10,4 +10,4 @@ Will be added later.
 
 ## Usecases
 
-Will be added later.
+[Projects](PROJECTS.md)
