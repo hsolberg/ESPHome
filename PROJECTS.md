@@ -33,6 +33,10 @@ TODO
 
 - Sonoff s20
 
+| |
+|--|
+| ![Sonoff S20](images/sonoff_s20.jpg) |
+
 ### Config-files
 TODO
 
