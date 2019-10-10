@@ -2,7 +2,8 @@
 | | | | |
 |------------|-------------|-------------|-------------|
 | ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
-| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  |  |  |
+| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  | ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
+| ![Sonoff S20](images/sonoff_s20.jpg) | | | |
 
 ## In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
@@ -16,7 +17,7 @@
 - 2x [CHOETECH Travel USB Charger 12W](https://www.aliexpress.com/item/32742790687.html) - 
 - 4x [Baseus 1m Micro USB Cable](https://www.aliexpress.com/item/32916331013.html) - 
 - 6x [DIY Plastic Waterproof Clear Cover Box](https://www.aliexpress.com/item/32955651064.html) - 85 X 58 X 33mm White
-- 6x [Sonoff S20](https://github.com/hassio-addons/addon-ssh) - 
+- 6x [Sonoff S20](https://www.aliexpress.com/item/32854202946.html) - 
 
 ## Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
