@@ -25,6 +25,9 @@ TODO
 ### Tracking sensors
 
 #### Plantsensor
+| |
+|----|
+| ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) |
 
 #### Temperature and Humidity
 | |
