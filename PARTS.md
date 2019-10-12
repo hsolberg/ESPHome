@@ -1,16 +1,19 @@
-# Parts
+# Main boards
 | | | | |
 |------------|-------------|-------------|-------------|
-| | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
-| | ![Dupont Wires](images/dupont_wires.jpg)  | | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
-| | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | | |
-| ![LM1117](images/LM1117.jpg) | ![antenna](images/antenna.jpg) | | |
-| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) | | |
+| ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) |  |
+| | | | |
+| ![ttgocam](images/ttgocam_fisheye_lense.jpg) | | |  |
+
+## Cameras
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | | | |
 
 ## Sensors
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | | | |
+| ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | | | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
 
 ## Devices
 | | | | |
@@ -24,10 +27,15 @@
 |------------|-------------|-------------|-------------|
 | ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) | | |
 
-## Power supply
+## Power supply/Converters
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | | |
+| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | | ![LM1117](images/LM1117.jpg) |
+
+## Wires/Network/Flashing-components
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Dupont Wires](images/dupont_wires.jpg) |  | ![FT232RL](images/FT232RL.jpg) | ![antenna](images/antenna.jpg) |
 
 # In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
