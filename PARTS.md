@@ -18,7 +18,8 @@
 ## Sensors
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | | | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
+| ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | ![BME280]() | ![BME680]() | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
+| ![BH1750]() | ![CCS811]() | ![HC-SR04 Ultrasonic Wave Detector]() |  |
 
 ## Devices
 | | | | |
