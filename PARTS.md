@@ -40,7 +40,7 @@
 ## Wires/Network/Flashing-components
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Dupont Wires](images/dupont_wires.jpg) | ![Flexible Flat Cable Extension 24PIN](images/Flexible_Flat_Cable_Extension_24PIN.jpg) |  | ![antenna](images/antenna.jpg) |
+| ![Dupont Wires](images/dupont_wires.jpg) | ![Flexible Flat Cable Extension 24PIN](images/Flexible_Flat_Cable_Extension_24PIN.jpg) | ![Flexible Flat Cable 24PIN](images/Flexible_Flat_Cable_24PIN.jpg) | ![antenna](images/antenna.jpg) |
 | ![FT232RL](images/FT232RL.jpg) | ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
 
 # In stock
