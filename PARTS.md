@@ -1,14 +1,35 @@
 # Parts
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
-| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![Dupont Wires](images/dupont_wires.jpg)  | ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
-| ![Sonoff S20](images/sonoff_s20.jpg) | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) |
-| ![LM1117](images/LM1117.jpg) | ![antenna](images/antenna.jpg) | ![doorbell chime](images/doorbell_chime.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) |
-| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) | ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | |
+| | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) | ![FT232RL](images/FT232RL.jpg) |
+| | ![Dupont Wires](images/dupont_wires.jpg)  | | ![ESP32-160MHz](images/ESP32-160MHz.jpg) |
+| | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | | |
+| ![LM1117](images/LM1117.jpg) | ![antenna](images/antenna.jpg) | | |
+| ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) | | |
+
+## Sensors
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | | | |
+
+## Devices
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | | |
+| ![Sonoff S20](images/sonoff_s20.jpg) | ![doorbell chime](images/doorbell_chime.jpg) | | |
 
 
-## In stock
+## DIY Boxes
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) | | |
+
+## Power supply
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | | |
+
+# In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
 - 120pcs x 5 [Dupont wires](https://www.aliexpress.com/item/32800085018.html) -
 - 2x [ESP8266 ESP-01S](https://www.aliexpress.com/item/32880024822.html) -
@@ -22,12 +43,12 @@
 - 6x [DIY Plastic Waterproof Clear Cover Box](https://www.aliexpress.com/item/32955651064.html) - 85 X 58 X 33mm White
 - 6x [Sonoff S20](https://www.aliexpress.com/item/32854202946.html) - 
 
-## Tools
+# Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
 
 ![toolset](images/toolset.jpg)
 
-## Ordered
+# Ordered
 - 3x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
 - 4x [ESP32S](https://www.aliexpress.com/item/32864722159.html) -
 - 8x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
@@ -51,6 +72,6 @@
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 2x [ Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 
-## Looking into buying
+# Looking into buying
 - [RGBW Controller](https://www.aliexpress.com/item/32833287206.html) - 
 - RGB LED-Strips - Suggestions needed
