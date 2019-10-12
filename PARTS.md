@@ -22,10 +22,11 @@
 | ![BH1750](images/BH1750.jpg) | ![CCS811](images/CCS811.jpg) | ![HC-SR04 Ultrasonic Wave Detector](images/HC-SR04_Ultrasonic_Wave_Detector.jpg) |  |
 
 ## Devices
-| | | | |
+| Xiaomi MiJia | Xiaomi MiFlora | | |
 |------------|-------------|-------------|-------------|
 | ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | | |
-| ![Sonoff S20](images/sonoff_s20.jpg) | ![doorbell chime](images/doorbell_chime.jpg) | | |
+| Sonoff S20 | Doorbell Chime |  |  |
+| ![Sonoff S20](images/sonoff_s20.jpg) | ![Doorbell Chime](images/doorbell_chime.jpg) | | |
 
 
 ## DIY Boxes
@@ -39,9 +40,10 @@
 | ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | | ![LM1117](images/LM1117.jpg) |
 
 ## Wires/Network/Flashing-components
-| | | | |
+| Dupont Wires | | | |
 |------------|-------------|-------------|-------------|
 | ![Dupont Wires](images/dupont_wires.jpg) | ![Flexible Flat Cable Extension 24PIN](images/Flexible_Flat_Cable_Extension_24PIN.jpg) | ![Flexible Flat Cable 24PIN](images/Flexible_Flat_Cable_24PIN.jpg) | ![antenna](images/antenna.jpg) |
+| FT232RL | | | |
 | ![FT232RL](images/FT232RL.jpg) | ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
 
 # In stock
