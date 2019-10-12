@@ -13,7 +13,7 @@
 ## Displays
 | | | | |
 |------------|-------------|-------------|-------------|
-|  |  |  | |
+| ![Yellow-blue OLED Display](images/oled_yellow_blue.jpg) | ![Blue OLED Display](images/oled_blue.jpg)  | ![White OLED Display](images/oled_white.jpg) | |
 
 ## Sensors
 | | | | |
@@ -40,8 +40,8 @@
 ## Wires/Network/Flashing-components
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Dupont Wires](images/dupont_wires.jpg) |  | ![FT232RL](images/FT232RL.jpg) | ![antenna](images/antenna.jpg) |
-| ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
+| ![Dupont Wires](images/dupont_wires.jpg) | ![Flexible Flat Cable Extension 24PIN](images/Flexible_Flat_Cable_Extension_24PIN.jpg) |  | ![antenna](images/antenna.jpg) |
+| ![FT232RL](images/FT232RL.jpg) | ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
 
 # In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
