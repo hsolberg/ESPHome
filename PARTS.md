@@ -33,7 +33,7 @@
 ## DIY Boxes
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) | | |
+| ![Plastic DIY Box.jpg](images/plastic_diy_box.jpg) | ![Aluminum DIY Case](images/aluminum_diy_case.jpg) | ![DIY Clear Cover Projectbox](images/DIY_Clear_Cover_Projectbox.jpg) | |
 | 70x45x30mm | 92x38x31mm | 85x58x33mm |  |
 
 ## Power supply/Converters
