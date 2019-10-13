@@ -3,6 +3,7 @@
 |------------|-------------|-------------|-------------|
 | ![ESP32-240MHz](images/ESP32-240MHz.jpg) | ![ESP32-160MHz](images/ESP32-160MHz.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) |  |
 | TTGO T-Camera ESP32 | | | |
+|------------|-------------|-------------|-------------|
 | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | | |  |
 
 ## Cameras
@@ -16,9 +17,11 @@
 | ![Yellow-blue OLED Display](images/oled_yellow_blue.jpg) | ![Blue OLED Display](images/oled_blue.jpg)  | ![White OLED Display](images/oled_white.jpg) | |
 
 ## Sensors
-| | | | |
+|  |  |  |  |
 |------------|-------------|-------------|-------------|
 | ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | ![BME280](images/BME280.jpg) | ![BME680](images/BME680.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
+|  |  |  |  |
+|------------|-------------|-------------|-------------|
 | ![BH1750](images/BH1750.jpg) | ![CCS811](images/CCS811.jpg) | ![HC-SR04 Ultrasonic Wave Detector](images/HC-SR04_Ultrasonic_Wave_Detector.jpg) |  |
 
 ## Devices
@@ -26,6 +29,7 @@
 |------------|-------------|-------------|-------------|
 | ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) | | |
 | Sonoff S20 | Doorbell Chime |  |  |
+|------------|-------------|-------------|-------------|
 | ![Sonoff S20](images/sonoff_s20.jpg) | ![Doorbell Chime](images/doorbell_chime.jpg) | | |
 
 
@@ -44,6 +48,7 @@
 |------------|-------------|-------------|-------------|
 | ![Dupont Wires](images/dupont_wires.jpg) | ![Flexible Flat Cable Extension 24PIN](images/Flexible_Flat_Cable_Extension_24PIN.jpg) | ![Flexible Flat Cable 24PIN](images/Flexible_Flat_Cable_24PIN.jpg) | ![antenna](images/antenna.jpg) |
 | FT232RL | | | |
+|------------|-------------|-------------|-------------|
 | ![FT232RL](images/FT232RL.jpg) | ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
 
 # In stock
