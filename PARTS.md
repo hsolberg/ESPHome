@@ -94,6 +94,7 @@
 - 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 # Looking into buying
 - [RGBW Controller](https://www.aliexpress.com/item/32833287206.html) - 
