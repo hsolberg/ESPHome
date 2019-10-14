@@ -45,3 +45,10 @@ TODO
 ### Config-files
 TODO
 
+
+## LED
+- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
+- 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- Total of 20m LED-strips
