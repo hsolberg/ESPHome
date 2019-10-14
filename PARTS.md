@@ -89,7 +89,11 @@
 - 6x [Flexible Flat Cable Extension 24PIN](https://www.aliexpress.com/item/33020782574.html) - 
 - 20x [Flexible Flat Cables 24PIN](https://www.aliexpress.com/item/32853717617.html) - 
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
-- 2x [ Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
+- 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
+- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
+- 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 # Looking into buying
 - [RGBW Controller](https://www.aliexpress.com/item/32833287206.html) - 
