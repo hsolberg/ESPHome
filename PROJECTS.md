@@ -51,4 +51,5 @@ TODO
 - 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- Total of 20m LED-strips
+- 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- Total of 22m LED-strips
