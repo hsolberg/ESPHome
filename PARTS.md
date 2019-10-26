@@ -65,6 +65,7 @@
 - 20x [Flexible Flat Cables 24PIN](https://www.aliexpress.com/item/32853717617.html) - 
 - 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) - 
 - 6x [LILYGO® OV2640 2MP Camera Module Fish-eye Lens](https://www.aliexpress.com/item/32981773363.html) - 
+- 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -86,7 +87,6 @@
 - 4x [BH1750](https://www.aliexpress.com/item/32341898423.html) - 
 - 2x [CCS811](https://www.aliexpress.com/item/32903358923.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
-- 2x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - 
 - 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
