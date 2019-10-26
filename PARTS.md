@@ -66,6 +66,7 @@
 - 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) - 
 - 6x [LILYGO® OV2640 2MP Camera Module Fish-eye Lens](https://www.aliexpress.com/item/32981773363.html) - 
 - 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - 
+- 20x [LED indicator lights](https://www.aliexpress.com/item/32606955472.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
