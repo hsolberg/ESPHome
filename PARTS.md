@@ -53,7 +53,7 @@
 - 120pcs x 5 [Dupont wires](https://www.aliexpress.com/item/32800085018.html) -
 - 2x [ESP8266 ESP-01S](https://www.aliexpress.com/item/32880024822.html) -
 - 1x [FT232RL FT232 FTDI USB to TTL 3.3V 5.5V](https://www.aliexpress.com/item/32634246159.html) - 
-- 5x [Xiaomi MiJia](https://www.aliexpress.com/item/32844220555.html) - 
+- 8x [Xiaomi MiJia](https://www.aliexpress.com/item/32844220555.html) - 
 - 2x [ESP32 WROOM-32, 160MHz](https://www.aliexpress.com/item/33020838035.html) - 
 - 4x [EU Micro USB Charger](https://www.aliexpress.com/item/32837548671.html) - Output Interface: 5V/2.4A, Input: 100-240V/0.15A
 - 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
