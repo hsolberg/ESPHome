@@ -97,6 +97,7 @@
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
+- 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 
 # Looking into buying
 - [RGBW Controller](https://www.aliexpress.com/item/32833287206.html) - 
