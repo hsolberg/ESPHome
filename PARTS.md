@@ -70,6 +70,12 @@
 - 4x [BH1750](https://www.aliexpress.com/item/32341898423.html) - 
 - 2x [CCS811](https://www.aliexpress.com/item/32903358923.html) - 
 - 4x [BME280](https://www.aliexpress.com/item/32849462236.html) - 
+- 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
+- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
+- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -88,14 +94,8 @@
 - 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
 - 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
-- 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
-- 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
-- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
-- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 
