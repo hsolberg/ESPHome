@@ -84,7 +84,7 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- 3x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
+- 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
 - 4x [ESP32S](https://www.aliexpress.com/item/32864722159.html) -
 - 8x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 2x [LM1117  6V-12V to 5V Step Down Power Converter](https://www.aliexpress.com/item/32659757988.html) - 
