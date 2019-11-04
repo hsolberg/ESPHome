@@ -97,9 +97,7 @@
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
+- 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 2x [DC5V WS2811 50 LEDs per string](https://m.aliexpress.com/item/33010869824.html) - 
-
-# Looking into buying
-- [RGBW Controller](https://www.aliexpress.com/item/32833287206.html) - 
-- RGB LED-Strips - Suggestions needed
+- 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
