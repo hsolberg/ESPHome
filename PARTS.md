@@ -77,6 +77,7 @@
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
+- 8x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -86,7 +87,6 @@
 # Ordered
 - 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
 - 4x [ESP32S](https://www.aliexpress.com/item/32864722159.html) -
-- 8x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 2x [LM1117  6V-12V to 5V Step Down Power Converter](https://www.aliexpress.com/item/32659757988.html) - 
 - 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 2x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
