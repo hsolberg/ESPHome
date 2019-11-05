@@ -60,3 +60,7 @@ Parts:
   - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 ### Kitchen cabinet lights
+| |
+|--|
+| ![Aluminum Channel (50cm)](images/Aluminum_Channel_50cm_part1.jpg) |
+| ![Aluminum Channel (50cm)](images/Aluminum_Channel_50cm_part2.jpg) |
