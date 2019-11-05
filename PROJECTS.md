@@ -10,6 +10,10 @@
 - Relay-board
 - Doorbell Chime
 
+| |
+|----|
+| ![Doorbell Chime](images/doorbell_chime.jpg) |
+
 ### Config-files
 TODO
 
