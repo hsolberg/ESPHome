@@ -48,6 +48,11 @@
 | FT232RL | | | |
 | ![FT232RL](images/FT232RL.jpg) | ![Baseus 1m Micro USB Cable](images/Baseus_1m_Micro_USB_Cable.jpg) | | | |
 
+## Connectors
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![Wire connectors 3 channels](images/wireconnectors_3-chan.jpg) | ![Wire connectors 5 channels](images/wireconnectors_5-chan.jpg) |  |  |
+
 # In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
 - 120pcs x 5 [Dupont wires](https://www.aliexpress.com/item/32800085018.html) -
