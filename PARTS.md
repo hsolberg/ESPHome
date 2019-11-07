@@ -83,6 +83,7 @@
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
+- 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -99,7 +100,6 @@
 - 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
 - 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
-- 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
