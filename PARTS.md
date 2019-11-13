@@ -88,6 +88,7 @@
 - 2x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [0.96 inch oled IIC Serial White OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [0.96 inch oled IIC Serial Blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
+- 2x [DC5V WS2811 50 LEDs per string](https://m.aliexpress.com/item/33010869824.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -104,7 +105,6 @@
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
-- 2x [DC5V WS2811 50 LEDs per string](https://m.aliexpress.com/item/33010869824.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
 - 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
 - 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
