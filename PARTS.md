@@ -85,7 +85,7 @@
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 2x [LM1117  6V-12V to 5V Step Down Power Converter](https://www.aliexpress.com/item/32659757988.html) - 
-- 2x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
+- 6x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [0.96 inch oled IIC Serial White OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [0.96 inch oled IIC Serial Blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [DC5V WS2811 50 LEDs per string](https://m.aliexpress.com/item/33010869824.html) - 
