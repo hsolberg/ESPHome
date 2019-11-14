@@ -89,6 +89,8 @@
 - 2x [0.96 inch oled IIC Serial White OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [0.96 inch oled IIC Serial Blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 2x [DC5V WS2811 50 LEDs per string](https://m.aliexpress.com/item/33010869824.html) - 
+- 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
+- 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -96,8 +98,6 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
-- 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
 - 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
@@ -106,7 +106,9 @@
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
-- 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
 - 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 
+## Ordered, but never received.
+Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
 
+- 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
