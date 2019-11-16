@@ -80,6 +80,7 @@
 - 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [5m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
