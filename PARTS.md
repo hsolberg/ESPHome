@@ -111,6 +111,8 @@
 - 1x [DC5V 60A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html)
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
