@@ -93,6 +93,10 @@
 - 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) -
+- 2x [JCD Red-T1 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html)
+- 2x [JCD Red-T2 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html)
+- 2x [JCD Transparent-T1 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html)
+- 2x [JCD Transparent-T2 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html)
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
