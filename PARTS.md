@@ -123,7 +123,7 @@
 - 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
-## Ordered, but never received.
+## Ordered, but never received
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
 
 - 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
