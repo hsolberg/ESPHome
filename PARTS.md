@@ -92,7 +92,7 @@
 - 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
 - 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
-
+- 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) -
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
