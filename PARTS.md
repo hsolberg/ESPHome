@@ -111,15 +111,17 @@
 - 1x [DC5V 60A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html)
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
-- 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
-- 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
+- 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
 - 2x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
 - 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 2x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
-
+- 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 ## Ordered, but never received.
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
