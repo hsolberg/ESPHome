@@ -116,8 +116,8 @@
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
 - 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
-- 2x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
-- 2x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
