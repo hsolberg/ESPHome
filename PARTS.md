@@ -52,7 +52,7 @@
 ## Connectors
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Wire connectors 3 channels](images/wireconnectors_3-chan.jpg) | ![Wire connectors 5 channels](images/wireconnectors_5-chan.jpg) |  |  |
+| ![Wire connectors 3 channels](images/wireconnectors_3-chan.jpg) | ![Wire connectors 5 channels](images/wireconnectors_5-chan.jpg) | ![DC Female connector 2.1*5.5mm](images/DC_Female_connector.jpg) |  |
 
 ## LED strings/strips
 | | | | |
