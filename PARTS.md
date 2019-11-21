@@ -39,7 +39,8 @@
 ## Power supply/Converters
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | | ![LM1117](images/LM1117.jpg) |
+| ![Choetech USB charger](images/Choetech_usb_charger_2.jpg) | ![EU Micro USB Charger](images/eu_micro_usb_charger.jpg) | ![Enclosed power supply 5V 10A](images/enclosed_powersupply_5V10A.jpg) | ![LM1117](images/LM1117.jpg) |
+| ![Bare Metal 5V 30A](images/bare_metal_5V30A.jpg) | ![Bare Metal 5V 60A](images/bare_metal_5V60A.jpg) | | |
 
 ## Wires/Network/Flashing-components
 | Dupont Wires | | | |
@@ -99,13 +100,13 @@
 - 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
 - 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 4x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
-- 1x [DC5V 30A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html)
-- 1x [DC5V 60A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html)
-- 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) -
-- 2x [JCD Red-T1 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html)
-- 2x [JCD Red-T2 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html)
-- 2x [JCD Transparent-T1 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html)
-- 2x [JCD Transparent-T2 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html)
+- 1x [DC5V 30A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html) - 
+- 1x [DC5V 60A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html) - 
+- 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) - 
+- 2x [JCD Red-T1 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html) - 
+- 2x [JCD Red-T2 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html) - 
+- 2x [JCD Transparent-T1 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
+- 2x [JCD Transparent-T2 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
