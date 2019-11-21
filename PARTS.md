@@ -53,6 +53,12 @@
 |------------|-------------|-------------|-------------|
 | ![Wire connectors 3 channels](images/wireconnectors_3-chan.jpg) | ![Wire connectors 5 channels](images/wireconnectors_5-chan.jpg) |  |  |
 
+## LED strings/strips
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![LED Strings](images/LED_strings.jpg) | ![LED Strips](images/LED_strips.jpg) | | |
+
+
 # In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
 - 120pcs x 5 [Dupont wires](https://www.aliexpress.com/item/32800085018.html) -
