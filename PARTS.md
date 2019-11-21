@@ -99,11 +99,11 @@
 - 2x [0.96 inch oled IIC Serial Blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
 - 1x [5 meter Red+5 meter Black Color Silicon Wire 10AWG](https://m.aliexpress.com/item/32982789709.html) - 
 - 1x [4 meter Red+4 meter Black Color Silicon Wire 8AWG](https://m.aliexpress.com/item/32808560744.html) - 
+- 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) - 
 - 6x [Xiaomi Aqara mount](https://www.aliexpress.com/item/32863484842.html) - 
 - 4x [5V 10A LED transformer Switch Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html) - 
 - 1x [DC5V 30A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html) - 
 - 1x [DC5V 60A Power Supply for LED](https://m.aliexpress.com/item/32837764382.html) - 
-- 4x [10 Meters 22AWG Red Black Wire](https://m.aliexpress.com/item/32821229368.html) - 
 - 2x [JCD Red-T1 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 - 2x [JCD Red-T2 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 - 2x [JCD Transparent-T1 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
