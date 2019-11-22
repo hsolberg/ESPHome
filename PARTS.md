@@ -72,7 +72,7 @@
 - 8x [Xiaomi MiJia](https://www.aliexpress.com/item/32844220555.html) - 
 - 2x [ESP32 WROOM-32, 160MHz](https://www.aliexpress.com/item/33020838035.html) - 
 - 4x [EU Micro USB Charger](https://www.aliexpress.com/item/32837548671.html) - Output Interface: 5V/2.4A, Input: 100-240V/0.15A
-- 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
+- 4x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [CHOETECH Travel USB Charger 12W](https://www.aliexpress.com/item/32742790687.html) - 
 - 4x [Baseus 1m Micro USB Cable](https://www.aliexpress.com/item/32916331013.html) - 
 - 6x [DIY Plastic Waterproof Clear Cover Box](https://www.aliexpress.com/item/32955651064.html) - 85 X 58 X 33mm White
@@ -120,7 +120,6 @@
 
 # Ordered
 - 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
-- 2x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
