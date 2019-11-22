@@ -76,6 +76,7 @@
 - 2x [CHOETECH Travel USB Charger 12W](https://www.aliexpress.com/item/32742790687.html) - 
 - 4x [Baseus 1m Micro USB Cable](https://www.aliexpress.com/item/32916331013.html) - 
 - 6x [DIY Plastic Waterproof Clear Cover Box](https://www.aliexpress.com/item/32955651064.html) - 85 X 58 X 33mm White
+- 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
 - 6x [Sonoff S20](https://www.aliexpress.com/item/32854202946.html) - 
 - 6x [Flexible Flat Cable Extension 24PIN](https://www.aliexpress.com/item/33020782574.html) - 
 - 20x [Flexible Flat Cables 24PIN](https://www.aliexpress.com/item/32853717617.html) - 
@@ -119,7 +120,6 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- 6x [2mm Thickness Aluminium Electronic Project Case](https://www.aliexpress.com/item/32854971317.html) - 
 - 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
