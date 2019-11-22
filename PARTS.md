@@ -59,6 +59,10 @@
 |------------|-------------|-------------|-------------|
 | ![LED Strings](images/LED_strings.jpg) | ![LED Strips](images/LED_strips.jpg) | | |
 
+## LED mounts
+| | | | |
+|------------|-------------|-------------|-------------|
+| ![LED Mounting channel](images/Aluminum_Channel_50cm_part1.jpg) | ![LED Mounting channel](images/Aluminum_Channel_50cm_part2.jpg) | | |
 
 # In stock
 - 5x [DIY Plastic Project Box](https://www.aliexpress.com/item/32878300213.html) - 70 X 45 X 30mm White
