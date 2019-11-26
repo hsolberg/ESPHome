@@ -94,6 +94,7 @@
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [5m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [DC5V WS2811 50 LEDs per string, Green wire](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
@@ -114,6 +115,8 @@
 - 2x [JCD Red-T2 Crimp Terminal 5PCS, max 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 - 2x [JCD Transparent-T1 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 - 2x [JCD Transparent-T2 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
+- 2x [Relay (SRD-05VDC-SL-C)](https://www.aliexpress.com/item/32857986495.html) - 
+- 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -121,12 +124,9 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- 2x [SRD-05VDC-SL-C](https://www.aliexpress.com/item/32857986495.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
-- 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
 - 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
-- 3x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
