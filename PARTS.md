@@ -88,7 +88,7 @@
 - 2x [CCS811](https://www.aliexpress.com/item/32903358923.html) - 
 - 4x [BME280](https://www.aliexpress.com/item/32849462236.html) - 
 - 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
-- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
+- 20x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
@@ -126,7 +126,6 @@
 # Ordered
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
-- 10x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
