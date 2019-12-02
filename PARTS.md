@@ -99,6 +99,7 @@
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 36x [Aluminum Channel 90 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
 - 2x [LM1117  6V-12V to 5V Step Down Power Converter](https://www.aliexpress.com/item/32659757988.html) - 
 - 6x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
@@ -124,7 +125,6 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
 - 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
