@@ -92,9 +92,13 @@
 - 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [5m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [DC5V WS2811 50 LEDs per string, Green wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 3x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
@@ -126,10 +130,6 @@
 
 # Ordered
 - 35x [Aluminum Channel 180 degree connector](http://s.click.aliexpress.com/e/sHXT8lzI) - 
-- 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
-- 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 ## Ordered, but never received
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
