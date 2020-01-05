@@ -89,16 +89,16 @@
 - 4x [BME280](https://www.aliexpress.com/item/32849462236.html) - 
 - 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
 - 20x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
-- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [5m 30px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 1x [2m 144px IP30](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 2x [1m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [3m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 3x [5m 60px IP30, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 2x [5m 60px IP67, White PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 2x [DC5V WS2811 50 LEDs per string, Green wire](https://m.aliexpress.com/item/33010869824.html) - 
-- 3x [DC5V WS2811 50 LEDs per string, White wire](https://m.aliexpress.com/item/33010869824.html) - 
-- 3x [DC5V WS2811 50 LEDs per string, Black wire](https://m.aliexpress.com/item/33010869824.html) - 
+- 1x [5m 74px IP30, Black PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 30px IP30, Black PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 1x [2m 144px IP30, Black PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [1m 60px IP67, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [3m 60px IP30, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 3x [5m 60px IP30, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [5m 60px IP67, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [50 px/LEDs per string, Green wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [50 px/LEDs per string, White wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
+- 3x [50 px/LEDs per string, Black wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
 - 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
@@ -130,9 +130,11 @@
 ![toolset](images/toolset.jpg)
 
 # Ordered
-- Nothing at the moment
+- 4x [1m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
+- 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
 
 ## Ordered, but never received
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
-
 - 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
