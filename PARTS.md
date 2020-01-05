@@ -57,7 +57,7 @@
 ## LED strings/strips
 | | | | |
 |------------|-------------|-------------|-------------|
-| ![LED Strings](images/LED_strings.jpg) | ![LED Strips](images/LED_strips.jpg) | | |
+| ![LED Strings](images/LED_strings.jpg) | ![LED Strips](images/LED_strips.jpg) | ![LED Screen 16x16](images/16x16LEDscreen.jpg) | |
 
 ## LED mounts
 | | | | |
