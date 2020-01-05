@@ -126,8 +126,10 @@
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
+- [Wire stripping tool](https://www.kjell.com/no/produkter/elektro-og-verktoy/verktoy/tenger-kabelskotenger/avisoleringstang-p40182) - 
 
 ![toolset](images/toolset.jpg)
+![Wire Stripping Tool](images/WireStrippers.jpeg)
 
 # Ordered
 - 4x [1m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
