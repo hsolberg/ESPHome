@@ -71,6 +71,7 @@
 - 1x [FT232RL FT232 FTDI USB to TTL 3.3V 5.5V](https://www.aliexpress.com/item/32634246159.html) - 
 - 8x [Xiaomi MiJia](https://www.aliexpress.com/item/32844220555.html) - 
 - 2x [ESP32 WROOM-32, 160MHz](https://www.aliexpress.com/item/33020838035.html) - 
+- 8x [ESP32 WROOM-32, 240MHz](https://m.aliexpress.com/item/32864722159.html) - 
 - 4x [EU Micro USB Charger](https://www.aliexpress.com/item/32837548671.html) - Output Interface: 5V/2.4A, Input: 100-240V/0.15A
 - 4x [TTGO T-Camera ESP32 WROVER & PSRAM Camera Module ESP32-WROVER-B OV2640 Camera Module 0.96 OLED](https://www.aliexpress.com/item/4000029714373.html) -
 - 2x [CHOETECH Travel USB Charger 12W](https://www.aliexpress.com/item/32742790687.html) - 
