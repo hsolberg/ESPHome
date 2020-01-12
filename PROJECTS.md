@@ -68,3 +68,12 @@ Parts:
 |--|
 | ![Aluminum Channel (50cm)](images/Aluminum_Channel_50cm_part1.jpg) |
 | ![Aluminum Channel (50cm)](images/Aluminum_Channel_50cm_part2.jpg) |
+
+## LCD info-screens
+Parts:
+- 2x [0.96 inch oled IIC Serial Yellow-blue OLED Display Module 128X64](https://www.aliexpress.com/item/32896971385.html) - 
+- 1x [ESP32 WROOM-32, 240MHz](https://m.aliexpress.com/item/32864722159.html) - 
+
+| |
+|--|
+| ![Yellow-blue OLED Display](images/oled_yellow_blue.jpg) |
