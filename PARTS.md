@@ -136,6 +136,8 @@
 - 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
+- 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
 
 ## Ordered, but never received
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
