@@ -124,6 +124,9 @@
 - 2x [JCD Transparent-T2 Crimp Terminal 5PCS, 10A](https://m.aliexpress.com/item/4000028655667.html) - 
 - 2x [Relay (SRD-05VDC-SL-C)](https://www.aliexpress.com/item/32857986495.html) - 
 - 10x [DC Male DC Female connector 2.1 * 5.5mm DC Power Jack Adapter Plug](https://www.aliexpress.com/item/32807618711.html) - 
+- 4x [1m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -133,9 +136,6 @@
 ![Wire Stripping Tool](images/WireStrippers.jpeg)
 
 # Ordered
-- 4x [1m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
-- 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
