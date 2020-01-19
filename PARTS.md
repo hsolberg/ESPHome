@@ -141,7 +141,3 @@
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
 - 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
 - 2x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
-
-## Ordered, but never received
-Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
-- 2x [Xiaomi MiFlora](https://www.aliexpress.com/item/33053566338.html) - 
