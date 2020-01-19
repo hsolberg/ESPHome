@@ -139,6 +139,8 @@
 - 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
+- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
+- 2x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
 
 ## Ordered, but never received
 Tried 3 different vendors, none managed to deliver. Not sure why it's so difficult to get this, but seems to be sold out almost everywhere as well.
