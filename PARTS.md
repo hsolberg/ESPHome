@@ -141,3 +141,4 @@
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
 - 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
 - 2x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
+- 2x [Panel Screen 8px x 32px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
