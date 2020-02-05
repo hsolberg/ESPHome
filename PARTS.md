@@ -127,6 +127,7 @@
 - 4x [1m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
+- 2x [BINZET DC 12V 24V to 5V 5A Converter Step Down Regulator](https://www.amazon.com/gp/aw/d/B00J3MHT1E) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
