@@ -47,6 +47,9 @@ TODO
 |--|
 | ![Sonoff S20](images/sonoff_s20.jpg) |
 
+### Software
+[Sonoff HomeAssistant integration](https://github.com/AlexxIT/SonoffLAN/)
+
 ### Config-files
 TODO
 
