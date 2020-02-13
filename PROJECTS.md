@@ -53,7 +53,7 @@ TODO
 ### Config-files
 TODO
 
-## PSU Calculation
+## LED PSU Calculation
 - Estiame 50 LED per 1 amp
 - Add 1-2 amps for the controller
 
