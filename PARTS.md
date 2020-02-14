@@ -128,6 +128,10 @@
 - 2x [2m 144px IP30, Black PCB, WS2812B](http://s.click.aliexpress.com/e/Kceu4gks) - 
 - 1x [Panel Screen 16px x 16px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [BINZET DC 12V 24V to 5V 5A Converter Step Down Regulator](https://www.amazon.com/gp/aw/d/B00J3MHT1E) - 
+- 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
+- 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
+- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
 
 # Tools
 - [SN-28B+1550Pcs dupont crimping tool pliers terminal ferrule crimper wire hand tool set terminals clamp kit tool](https://www.aliexpress.com/item/33024193343.html) - 
@@ -137,10 +141,6 @@
 ![Wire Stripping Tool](images/WireStrippers.jpeg)
 
 # Ordered
-- 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
-- 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
-- 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
-- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
 - 2x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
 - 2x [Panel Screen 8px x 32px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [LILYGO® TTGO T-Camera, Fish-eye lense](https://m.aliexpress.com/item/32968683765.html) - 
