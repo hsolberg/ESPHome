@@ -16,7 +16,108 @@
 | ![ttgocam](images/ttgocam_fisheye_lense.jpg) |
 
 ### Config-files
-TODO
+
+#### Ttgocam config
+```
+substitutions:
+  devicename: ttgocam
+  friendly_name: esp32cam
+  ip_address: !secret static_ip_address
+
+esphome:
+  name: $devicename
+  platform: ESP32
+  board: esp-wrover-kit
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  manual_ip:
+    static_ip: $ip_address
+    gateway: !secret gateway_ip
+    subnet: !secret subnet_ip
+
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+ota:
+
+# Enable Web server.
+web_server:
+  port: 80
+
+binary_sensor:
+  - platform: gpio
+    pin: GPIO33
+    name: $friendly_name PIR
+    device_class: motion
+
+  - platform: gpio
+    pin:
+      number: GPIO34
+      mode: INPUT_PULLUP
+      inverted: True
+    name: $friendly_name Button
+
+  - platform: status
+    name: $friendly_name Status
+
+sensor:
+  - platform: wifi_signal
+    name: $friendly_name WiFi Signal
+    update_interval: 10s
+  - platform: uptime
+    name: $friendly_name Uptime
+
+esp32_camera:
+  name: $friendly_name Camera
+  external_clock:
+    pin: GPIO32
+    frequency: 20MHz
+  i2c_pins:
+    sda: GPIO13
+    scl: GPIO12
+  data_pins: [GPIO5, GPIO14, GPIO4, GPIO15, GPIO18, GPIO23, GPIO36, GPIO39]
+  vsync_pin: GPIO27
+  href_pin: GPIO25
+  pixel_clock_pin: GPIO19
+  power_down_pin: GPIO26
+  resolution: 800x600
+  jpeg_quality: 10
+  vertical_flip: false
+  horizontal_mirror: false
+
+i2c:
+  sda: GPIO21
+  scl: GPIO22
+
+font:
+  - file: "fonts/times-new-roman.ttf"
+    id: tnr1
+    size: 20
+  - file: "fonts/times-new-roman.ttf"
+    id: tnr2
+    size: 35
+
+time:
+  - platform: homeassistant
+    id: homeassistant_time
+
+display:
+  - platform: ssd1306_i2c
+    model: "SSD1306 128x64"
+    address: 0x3C
+    lambda: |-
+      it.strftime(64, 0, id(tnr1), TextAlign::TOP_CENTER,"%d-%m-%Y", id(homeassistant_time).now());
+      it.strftime(64, 64, id(tnr2), TextAlign::BASELINE_CENTER, "%H:%M", id(homeassistant_time).now());
+```
+
+#### Chime and doorbell-button
+Todo
 
 ## Bluetooth tracking hub
 - ESP32 Board with:
