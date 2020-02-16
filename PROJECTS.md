@@ -51,7 +51,7 @@ TODO
 [Sonoff HomeAssistant integration](https://github.com/AlexxIT/SonoffLAN/)
 
 ### Config-files
-in config.yaml
+#### In config.yaml
 ```
 # Enable sonoff integration
 sonoff:
@@ -59,7 +59,7 @@ sonoff:
   password: !secret sonoff_pass
 #  reload: always  # update device list every time HA starts
 ```
-in ui-lovelace.yaml
+#### In ui-lovelace.yaml
 
 ```
 resources:
