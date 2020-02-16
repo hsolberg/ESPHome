@@ -106,8 +106,8 @@ views:
 ## LED
 Parts:
 - 2x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
-- 6x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
-- 1x [5m 74px IP30, Black PCB](http://s.click.aliexpress.com/e/Kceu4gks) - 
+- 4x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
+- 2x [1m 60px IP67, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
 
 ### Kitchen cabinet lights
 | |
