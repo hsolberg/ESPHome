@@ -240,3 +240,7 @@ Parts:
 ### Description
 - One screen to show the time and temperatures inside+outside.
 - One screen to show delays and when the next train is scheduled for the subway. Useful when commuting to work.
+
+### Config-files
+
+Todo
