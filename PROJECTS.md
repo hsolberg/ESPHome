@@ -51,7 +51,14 @@ TODO
 [Sonoff HomeAssistant integration](https://github.com/AlexxIT/SonoffLAN/)
 
 ### Config-files
-TODO
+in config.yaml
+```
+# Enable sonoff integration
+sonoff:
+  username: !secret sonoff_user
+  password: !secret sonoff_pass
+#  reload: always  # update device list every time HA starts
+```
 
 ## LED PSU Calculation
 - Estiame 50 LED per 1 amp
