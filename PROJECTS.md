@@ -135,6 +135,14 @@ Todo
 |----|
 | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) |
 
+#### Software
+
+ESPHome
+
+#### Config
+
+Todo
+
 #### Temperature and Humidity
 | |
 |----|
@@ -209,6 +217,10 @@ Parts:
 - 2x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 4x [Aluminum Channel (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 2x [1m 60px IP67, White PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
+
+### Software
+
+WLED
 
 ### Kitchen cabinet lights
 | |
