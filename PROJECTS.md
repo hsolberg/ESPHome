@@ -139,7 +139,7 @@ Todo
 
 ESPHome
 
-#### Config
+#### Config-files
 
 Todo
 
@@ -147,6 +147,83 @@ Todo
 | |
 |----|
 | ![Xiaomi MiJia](images/Xiaomi_MiJia.jpg) |
+
+#### Software
+
+ESPHome
+
+#### Config-files
+
+```
+esphome:
+  name: 'tempsensors'
+  platform: ESP32
+  board: esp32dev
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  manual_ip:
+    # Set this to the IP of the ESP
+    static_ip: !secret esp_temphub_static_ip
+    # Set this to the IP address of the router. Often ends with .1
+    gateway: !secret gateway_ip
+    # The subnet of the network. 255.255.255.0 works for most home networks.
+    subnet: !secret subnet_ip
+    dns1: 8.8.8.8 # google-dns
+    dns2: 8.8.4.4 # google-dns
+
+api:
+
+web_server:
+  port: 80
+
+logger:
+
+ota:
+
+# Enable Bluetooth scanning for this ESP32
+esp32_ble_tracker:
+
+sensor:
+  - platform: xiaomi_lywsdcgq
+    mac_address: !secret bedroom_xiaomi_mijia_mac_address
+    temperature:
+      name: "Bedroom Xiaomi MiJia Temperature"
+    humidity:
+      name: "Bedroom Xiaomi MiJia Humidity"
+    battery_level:
+      name: "Bedroom Xiaomi MiJia Battery Level"
+  - platform: xiaomi_lywsdcgq
+    mac_address: !secret bathroom_xiaomi_mijia_mac_address
+    temperature:
+      name: "Bathroom Xiaomi MiJia Temperature"
+    humidity:
+      name: "Bathroom Xiaomi MiJia Humidity"
+    battery_level:
+      name: "Bathroom Xiaomi MiJia Battery Level"
+  - platform: xiaomi_lywsdcgq
+    mac_address: !secret livingroom_xiaomi_mijia_mac_address
+    temperature:
+      name: "Livingroom Xiaomi MiJia Temperature"
+    humidity:
+      name: "Livingroom Xiaomi MiJia Humidity"
+    battery_level:
+      name: "Livingroom Xiaomi MiJia Battery Level"
+  - platform: xiaomi_lywsdcgq
+    mac_address: !secret kitchen_xiaomi_mijia_mac_address
+    temperature:
+      name: "Kitchen Xiaomi MiJia Temperature"
+    humidity:
+      name: "Kitchen Xiaomi MiJia Humidity"
+    battery_level:
+      name: "Kitchen Xiaomi MiJia Battery Level"
+  - platform: uptime
+    name: "TempHub Uptime Sensor"
+  - platform: wifi_signal
+    name: "TempHub WiFi Signal Sensor"
+    update_interval: 60s
+```
 
 ## Remotely controlled powerplugs
 
