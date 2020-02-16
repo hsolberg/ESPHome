@@ -59,6 +59,26 @@ sonoff:
   password: !secret sonoff_pass
 #  reload: always  # update device list every time HA starts
 ```
+in ui-lovelace.yaml
+
+```
+  - icon: mdi:toggle-switch
+    title: Switches
+    id: switches
+    cards:
+
+      - type: custom:auto-entities
+        filter:
+          include:
+            - domain: switch
+              entity_id: "switch.sonoff_*"
+        card:
+          type: custom:fold-entity-row
+          head:
+            type: section
+            label: All Sonoff switches
+```
+
 
 ## LED PSU Calculation
 - Estiame 50 LED per 1 amp
