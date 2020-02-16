@@ -152,7 +152,7 @@ Todo
 [Sonoff HomeAssistant integration](https://github.com/AlexxIT/SonoffLAN/)
 
 ### Config-files
-#### In config.yaml
+#### In configuration.yaml
 ```
 # Enable sonoff integration
 sonoff:
