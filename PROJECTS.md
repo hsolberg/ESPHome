@@ -62,6 +62,25 @@ sonoff:
 in ui-lovelace.yaml
 
 ```
+resources:
+# Name: auto-entities-card
+# Description: Automatically displays entities based on filters, makes ot easy to show several entities with minimal config effort
+# Used in config? Yes
+# Maintainer: HACS
+# source: https://github.com/thomasloven/lovelace-auto-entities/blob/master/README.md
+  - url: /community_plugin/lovelace-auto-entities/auto-entities.js
+    type: module
+
+# Name: fold-entity-row
+# Description: Enables collapsible/expandable cards.
+# Used in config? Yes
+# Maintainer: HACS
+  - url: /community_plugin/lovelace-fold-entity-row/fold-entity-row.js
+    type: module
+
+title: Home
+views:
+
   - icon: mdi:toggle-switch
     title: Switches
     id: switches
