@@ -22,7 +22,7 @@
 substitutions:
   devicename: ttgocam
   friendly_name: esp32cam
-  ip_address: !secret static_ip_address
+  ip_address: !secret ttgocam_static_ip_address
 
 esphome:
   name: $devicename
