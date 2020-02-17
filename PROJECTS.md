@@ -297,7 +297,7 @@ Parts:
 
 ### Software
 
-WLED
+[WLED](https://github.com/Aircoookie/WLED)
 
 ### Kitchen cabinet lights
 | |
