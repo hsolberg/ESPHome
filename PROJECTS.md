@@ -321,5 +321,83 @@ Parts:
 #### Config-files
 
 ```
-Todo
+
+...SNIP..
+
+# Enable logging.
+logger:
+
+# Enable Home Assistant API.
+api:
+
+# Enable over-the-air updates.
+ota:
+
+# Enable Web server.
+web_server:
+  port: 80
+
+sensor:
+  - platform: wifi_signal
+    name: $friendly_name WiFi Signal
+    update_interval: 60s
+  - platform: uptime
+    name: $friendly_name Uptime
+
+  - platform: homeassistant
+    id: outside_temperature
+    entity_id: sensor.yr_dewpoint_temperature
+    internal: true
+
+  - platform: homeassistant
+    id: inside_temperature
+    entity_id: sensor.home_temperature_average
+    internal: true
+
+binary_sensor:
+  - platform: status
+    name: $friendly_name Status
+
+i2c:
+  sda: GPIO21
+  scl: GPIO22
+
+font:
+  - file: 'fonts/slkscr.ttf'
+    id: font1
+    size: 16
+
+  - file: 'fonts/BebasNeue-Regular.ttf'
+    id: font2
+    size: 48
+
+  - file: 'fonts/Arial.ttf'
+    id: font3
+    size: 14
+
+# Sync time with Home Assistant.
+time:
+  - platform: homeassistant
+    id: esptime
+
+display:
+  - platform: ssd1306_i2c
+    model: "SSD1306 128x64"
+    address: 0x3C
+    lambda: |-
+      // Print "Home" in top center.
+      it.printf(64, 0, id(font1), TextAlign::TOP_CENTER, "Roadhouse!");
+
+      // Print time in HH:MM format
+      it.strftime(0, 60, id(font2), TextAlign::BASELINE_LEFT, "%H:%M", id(esptime).now());
+
+      // Print inside temperature (from homeassistant sensor)
+      if (id(inside_temperature).has_state()) {
+        it.printf(127, 23, id(font3), TextAlign::TOP_RIGHT , "%.1f°", id(inside_temperature).state);
+      }
+
+      // Print outside temperature (from homeassistant sensor)
+      if (id(outside_temperature).has_state()) {
+        it.printf(127, 60, id(font3), TextAlign::BASELINE_RIGHT , "%.1f°", id(outside_temperature).state);
+      }
 ```
