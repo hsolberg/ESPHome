@@ -321,8 +321,29 @@ Parts:
 #### Config-files
 
 ```
+substitutions:
+  devicename: esp32screens
+  friendly_name: ESP Screens
+  ip_address: !secret esp32screens_ip_address
 
-...SNIP..
+esphome:
+  name: $devicename
+  platform: ESP32
+  board: esp32dev
+
+wifi:
+  ap:
+    ssid: $devicename
+    password: !secret wifi_password
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  manual_ip:
+    # Set this to the IP of the ESP
+    static_ip: $ip_address
+    # Set this to the IP address of the router. Often ends with .1
+    gateway: !secret esp32screens_gateway
+    # The subnet of the network. 255.255.255.0 works for most home networks.
+    subnet: !secret esp32screens_subnet
 
 # Enable logging.
 logger:
@@ -345,13 +366,13 @@ sensor:
     name: $friendly_name Uptime
 
   - platform: homeassistant
-    id: outside_temperature
-    entity_id: sensor.yr_dewpoint_temperature
+    id: outside_temperature # internal id used by lambda
+    entity_id: sensor.yr_dewpoint_temperature # homeassistant entity_id
     internal: true
 
   - platform: homeassistant
-    id: inside_temperature
-    entity_id: sensor.home_temperature_average
+    id: inside_temperature # internal id used by lambda
+    entity_id: sensor.home_temperature_average# homeassistant entity_id
     internal: true
 
 binary_sensor:
@@ -386,7 +407,7 @@ display:
     address: 0x3C
     lambda: |-
       // Print "Home" in top center.
-      it.printf(64, 0, id(font1), TextAlign::TOP_CENTER, "Roadhouse!");
+      it.printf(64, 0, id(font1), TextAlign::TOP_CENTER, "Home");
 
       // Print time in HH:MM format
       it.strftime(0, 60, id(font2), TextAlign::BASELINE_LEFT, "%H:%M", id(esptime).now());
