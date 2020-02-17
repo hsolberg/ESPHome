@@ -401,6 +401,7 @@ time:
   - platform: homeassistant
     id: esptime
 
+# Display #1
 display:
   - platform: ssd1306_i2c
     model: "SSD1306 128x64"
@@ -421,4 +422,7 @@ display:
       if (id(outside_temperature).has_state()) {
         it.printf(127, 60, id(font3), TextAlign::BASELINE_RIGHT , "%.1f°", id(outside_temperature).state);
       }
+
+# Display #2
+# TODO
 ```
