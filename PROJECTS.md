@@ -319,7 +319,8 @@ Description:
 - One screen to show delays and when the next train is scheduled for the subway. Useful when commuting to work.
 
 ### Software
-[ESPHome](https://esphome.io/)
+* [ESPHome](https://esphome.io/)
+** [ESPHome Screen cookbook](https://esphome.io/cookbook/display_time_temp_oled.html)
 
 #### Config-files
 
