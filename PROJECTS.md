@@ -262,6 +262,7 @@ resources:
 # Description: Enables collapsible/expandable cards.
 # Used in config? Yes
 # Maintainer: HACS
+# source: https://github.com/thomasloven/lovelace-fold-entity-row/blob/master/README.md
   - url: /community_plugin/lovelace-fold-entity-row/fold-entity-row.js
     type: module
 
