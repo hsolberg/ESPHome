@@ -150,7 +150,7 @@ Todo
 
 #### Software
 
-ESPHome
+[ESPHome](https://esphome.io/components/sensor/xiaomi_lywsdcgq.html)
 
 #### Config-files
 
