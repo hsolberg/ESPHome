@@ -251,7 +251,7 @@ sonoff:
 ```
 resources:
 # Name: auto-entities-card
-# Description: Automatically displays entities based on filters, makes ot easy to show several entities with minimal config effort
+# Description: Automatically displays entities based on filters, makes it easy to show several entities with minimal config effort
 # Used in config? Yes
 # Maintainer: HACS
 # source: https://github.com/thomasloven/lovelace-auto-entities/blob/master/README.md
