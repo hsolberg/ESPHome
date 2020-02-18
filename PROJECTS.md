@@ -137,11 +137,12 @@ Todo
 
 #### Software
 
-[ESPHome](https://esphome.io/)
+[ESPHome](https://esphome.io/components/sensor/xiaomi_hhccjcy01.html)
 
 #### Config-files
-
+```
 Todo
+```
 
 #### Temperature and Humidity
 | |
