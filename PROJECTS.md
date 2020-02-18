@@ -137,7 +137,7 @@ Todo
 
 #### Software
 
-ESPHome
+[ESPHome](https://esphome.io/)
 
 #### Config-files
 
@@ -314,9 +314,12 @@ Parts:
 |--|
 | ![Yellow-blue OLED Display](images/oled_yellow_blue.jpg) |
 
-### Description
+Description:
 - One screen to show the time and temperatures inside+outside.
 - One screen to show delays and when the next train is scheduled for the subway. Useful when commuting to work.
+
+### Software
+[ESPHome](https://esphome.io/)
 
 #### Config-files
 
