@@ -436,5 +436,14 @@ display:
 ## Lightning sensor
 
 Parts:
-- [AMS AS3935 Franklin Lightning Sensor](https://esphome.io/components/sensor/as3935.html)
+- 1x [AMS AS3935 Franklin Lightning Sensor](https://esphome.io/components/sensor/as3935.html)
+- 1x [ESP32 WROOM-32, 240MHz](https://m.aliexpress.com/item/32864722159.html) - 
 
+
+### Software
+* [ESPHome](https://esphome.io/components/sensor/as3935.html)
+
+#### Config-files
+```
+TODO
+```
