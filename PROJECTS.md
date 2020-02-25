@@ -432,3 +432,5 @@ display:
 # Display #2
 # TODO
 ```
+
+## Lightning sensor
