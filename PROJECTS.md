@@ -434,3 +434,7 @@ display:
 ```
 
 ## Lightning sensor
+
+Parts:
+- [AMS AS3935 Franklin Lightning Sensor](https://esphome.io/components/sensor/as3935.html)
+
