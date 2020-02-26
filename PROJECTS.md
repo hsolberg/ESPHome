@@ -340,7 +340,7 @@ esphome:
 wifi:
   ap:
     ssid: $devicename
-    password: !secret wifi_password
+    password: !secret esp32screens_wifi_password
   ssid: !secret wifi_ssid
   password: !secret wifi_password
   manual_ip:
@@ -431,6 +431,8 @@ display:
 
 # Display #2
 # TODO
+
+
 ```
 
 ## Lightning sensor
@@ -445,5 +447,69 @@ Parts:
 
 #### Config-files
 ```
-TODO
+substitutions:
+  devicename: esp32lightning
+  friendly_name: ESP Lightning
+  ip_address: !secret esp32lightning_ip_address
+
+esphome:
+  name: $devicename
+  platform: ESP32
+  board: esp32dev
+
+wifi:
+  ap:
+    ssid: $devicename
+    password: !secret esp32lightning_wifi_password
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  manual_ip:
+    # Set this to the IP of the ESP
+    static_ip: $ip_address
+    # Set this to the IP address of the router. Often ends with .1
+    gateway: !secret esp32lightning_gateway
+    # The subnet of the network. 255.255.255.0 works for most home networks.
+    subnet: !secret esp32lightning_subnet
+
+# Enable logging.
+logger:
+
+# Enable Home Assistant API.
+api:
+
+# Enable over-the-air updates.
+ota:
+
+# Enable Web server.
+web_server:
+  port: 80
+
+# Sync time with Home Assistant.
+time:
+  - platform: homeassistant
+    id: esptime
+
+# i2c-pin for the lightning sensor
+as3935_i2c:
+  irq_pin: GPIO12
+
+# Uptime and WiFi signal
+sensor:
+  - platform: wifi_signal
+    name: $friendly_name WiFi Signal
+    update_interval: 60s
+  - platform: uptime
+    name: $friendly_name Uptime
+
+# Configuration for creating sensors
+  - platform: as3935
+    lightning_energy:
+      name: $friendly_name Lightning Energy
+    distance:
+      name: $friendly_name Distance Storm
+binary_sensor:
+  - platform: as3935
+    name: $friendly_name Storm Alert
+
 ```
+
