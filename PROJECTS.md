@@ -438,7 +438,7 @@ display:
 ##### Adding two screens (example)
 Description:
 TODO! Need to use two entries for i2c and specifying the mapping for each screen.
-
+Example from https://esphome.io/components/i2c.html
 ```
 Note
 If the device can support multiple I²C buses (ESP32 has 2) these buses need to be defined as below and sensors need to be setup specifying the correct bus:
