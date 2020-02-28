@@ -322,7 +322,7 @@ Description:
 
 ### Software
 * [ESPHome](https://esphome.io/)
-** [ESPHome Screen cookbook](https://esphome.io/cookbook/display_time_temp_oled.html)
+* [ESPHome Screen cookbook](https://esphome.io/cookbook/display_time_temp_oled.html)
 
 #### Config-files
 
