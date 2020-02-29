@@ -556,6 +556,49 @@ Parts:
 
 #### Config-files
 ```
-TODO
+```
+substitutions:
+  devicename: espmultisensor
+  friendly_name: esp32multisensor
+  ip_address: !secret espmultisensor_static_ip_address
+
+esphome:
+  name: $devicename
+  platform: ESP32
+  board: esp32-dev
+
+wifi:
+  ap:
+    ssid: $devicename
+    password: !secret esp32multisensor_wifi_password
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  manual_ip:
+    static_ip: $ip_address
+    gateway: !secret gateway_ip
+    subnet: !secret subnet_ip
+
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+# Enable over-the-air updates.
+ota:
+
+# Enable Web server.
+web_server:
+  port: 80
+
+
+sensor:
+  - platform: wifi_signal
+    name: $friendly_name WiFi Signal
+    update_interval: 60s
+  - platform: uptime
+    name: $friendly_name Uptime
+
 ```
 
