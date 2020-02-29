@@ -564,7 +564,7 @@ substitutions:
 esphome:
   name: $devicename
   platform: ESP32
-  board: esp32-dev
+  board: esp32dev
 
 wifi:
   ap:
