@@ -591,6 +591,9 @@ ota:
 web_server:
   port: 80
 
+i2c:
+  sda: GPIO21
+  scl: GPIO22
 
 sensor:
   - platform: wifi_signal
