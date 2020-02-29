@@ -556,7 +556,6 @@ Parts:
 
 #### Config-files
 ```
-```
 substitutions:
   devicename: espmultisensor
   friendly_name: esp32multisensor
