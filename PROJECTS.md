@@ -599,5 +599,17 @@ sensor:
   - platform: uptime
     name: $friendly_name Uptime
 
+  - platform: bme680
+    temperature:
+      name: $friendly_name Temperature
+      oversampling: 16x
+    pressure:
+      name: $friendly_name Pressure
+    humidity:
+      name: $friendly_name Humidity
+    gas_resistance:
+      name: $friendly_name Gas Resistance
+    address: 0x77
+    update_interval: 60s
 ```
 
