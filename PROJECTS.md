@@ -539,3 +539,7 @@ binary_sensor:
 
 ```
 
+## Temperature, Volatile gas sensor
+
+Parts:
+- 1x 
