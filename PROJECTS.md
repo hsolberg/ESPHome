@@ -539,7 +539,23 @@ binary_sensor:
 
 ```
 
-## Temperature, Volatile gas sensor
+## Temperature ans gas sensor
+BME680 has the following sensors:
+* Temperature
+* Pressure
+* Humidity
+* Gas Sensor
 
 Parts:
-- 1x 
+- 1x  [BME680](https://www.aliexpress.com/item/32961369966.html) - 
+- 1x [ESP32 WROOM-32, 240MHz](https://m.aliexpress.com/item/32864722159.html) - 
+
+
+### Software
+* [ESPHome](https://esphome.io/components/sensor/bme680.html)
+
+#### Config-files
+```
+TODO
+```
+
