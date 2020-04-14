@@ -7,8 +7,10 @@
   - Buttons
   - PIR-sensor
   - Display (not needed but it was bundled with the board)
-- Relay-board
-- Doorbell Chime
+- [ESP8266 ESP-01S](https://www.aliexpress.com/item/32880024822.html) - (Relay-board)
+- [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html)
+- [BINZET DC 12V 24V to 5V 5A Converter Step Down Regulator](https://www.amazon.com/gp/aw/d/B00J3MHT1E) - 12V -> 5V
+- [12V 2A Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html)
 
 | |
 |----|
@@ -16,6 +18,11 @@
 | ![ttgocam](images/ttgocam_fisheye_lense.jpg) |
 
 ### Config-files
+
+#### Doorbell-relay-chime config
+```
+TODO
+```
 
 #### Ttgocam config
 ```
