@@ -12,10 +12,10 @@
 - [BINZET DC 12V 24V to 5V 5A Converter Step Down Regulator](https://www.amazon.com/gp/aw/d/B00J3MHT1E) - 12V -> 5V
 - [12V 2A Power Supply EU plug](https://www.aliexpress.com/item/4000102102421.html)
 
-| |
-|----|
-| ![Doorbell Chime](images/doorbell_chime.jpg) |
-| ![ttgocam](images/ttgocam_fisheye_lense.jpg) |
+| | |
+|----|----|
+| ![Doorbell Chime](images/doorbell_chime.jpg) | ![ESP8266_ESP-01S](images/ESP8266_ESP-01S.jpg) |
+| ![ttgocam](images/ttgocam_fisheye_lense.jpg) |  |
 
 ### Config-files
 
