@@ -147,6 +147,6 @@
 
 # Ordered
 - 2x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
-- 2x [Nextion Basic T seires: NX3224T024 2.4" Resistive Touchscreen(https://a.aliexpress.com/_d88JIcc) -
+- 2x [Nextion Basic T seires: NX3224T024 2.4" Resistive Touchscreen](https://a.aliexpress.com/_d88JIcc) -
 - 4x [5v 8 Channel Relay module with optocoupler](https://a.aliexpress.com/_dWMgsUc) -
 - 4x [ESP8266 4CH 12V WiFi Relay Module](https://a.aliexpress.com/_dVGEobS) -
