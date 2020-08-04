@@ -20,8 +20,7 @@
 |------------|-------------|-------------|-------------|
 | ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | ![BME280](images/BME280.jpg) | ![BME680](images/BME680.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
 |  |  |  |  |
-| ![BH1750](images/BH1750.jpg) | ![CCS811](images/CCS811.jpg) | ![HC-SR04 Ultrasonic Wave Detector](images/HC-SR04_Ultrasonic_Wave_Detector.jpg) | ![AMS AS3935 Franklin Lightning Sensor](images/TODO.jpg)
- |
+| ![BH1750](images/BH1750.jpg) | ![CCS811](images/CCS811.jpg) | ![HC-SR04 Ultrasonic Wave Detector](images/HC-SR04_Ultrasonic_Wave_Detector.jpg) | ![AMS AS3935 Franklin Lightning Sensor](images/AMS_AS3935_Franklin_Lightning_Sensor.jpg) |
 
 ## Devices
 | Xiaomi MiJia | Xiaomi MiFlora | | |
