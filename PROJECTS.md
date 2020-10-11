@@ -244,10 +244,10 @@ display:
       it.strftime(64, 64, id(tnr2), TextAlign::BASELINE_CENTER, "%H:%M", id(homeassistant_time).now());
 ```
 
-#### Chime and doorbell-button
-Todo
+#### Camera, PIR-sensor, Chime and doorbell-button
+Todo, add schematics and automation rules.
 
-## Bluetooth tracking hub
+## Bluetooth tracking hub (in planning stage)
 - ESP32 Board with:
   - Bluetooth
   - WiFi
@@ -258,7 +258,7 @@ Todo
 
 ### Tracking sensors
 
-#### Plantsensor
+#### Plantsensor (Done, need to update with config file)
 | |
 |----|
 | ![Xiaomi MiFlora](images/Xiaomi_MiFlora.jpg) |
@@ -370,8 +370,8 @@ sensor:
 ```
 # Enable sonoff integration
 sonoff:
-  username: !secret sonoff_user
-  password: !secret sonoff_pass
+  username: !secret sonoff_user # mapped to variable in secrets.yaml
+  password: !secret sonoff_pass # mapped to variable in secrets.yaml
 #  reload: always  # update device list every time HA starts
 ```
 #### In ui-lovelace.yaml
@@ -413,7 +413,6 @@ views:
             type: section
             label: All Sonoff switches
 ```
-
 
 ## LED PSU Calculation
 - Estiame 50 LED per 1 amp
