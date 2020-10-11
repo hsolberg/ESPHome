@@ -1,4 +1,5 @@
 # Projects
+Most of these are based on existing examples from the ESPHome documentation and guides like [Frencks doorbell bloggpost](https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/). Usually mix different parts from configs together to get the best results.
 
 ## Smart doorbell
 
