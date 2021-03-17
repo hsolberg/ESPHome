@@ -81,13 +81,13 @@
 - 6x [Sonoff S20](https://www.aliexpress.com/item/32854202946.html) - 
 - 6x [Flexible Flat Cable Extension 24PIN](https://www.aliexpress.com/item/33020782574.html) - 
 - 20x [Flexible Flat Cables 24PIN](https://www.aliexpress.com/item/32853717617.html) - 
-- 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) - 
+- 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) [ESPHome docs](https://esphome.io/components/sensor/ultrasonic.html) - Ultrasonic Distance Sensor
 - 6x [LILYGO® OV2640 2MP Camera Module Fish-eye Lens](https://www.aliexpress.com/item/32981773363.html) - 
-- 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - 
+- 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - PIR Sensor
 - 20x [LED indicator lights](https://www.aliexpress.com/item/32606955472.html) - 
-- 4x [BH1750](https://www.aliexpress.com/item/32341898423.html) - 
-- 2x [CCS811](https://www.aliexpress.com/item/32903358923.html) - 
-- 4x [BME280](https://www.aliexpress.com/item/32849462236.html) - 
+- 4x [BH1750](https://www.aliexpress.com/item/32341898423.html) - Ambient Light Sensor
+- 2x [CCS811](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210316233240&origin=y&SearchText=CCS811) [ESPHome docs](https://esphome.io/components/sensor/ccs811.html) - CO_2 and Volatile Organic Compound Sensor
+- 4x [BME280](https://www.aliexpress.com/item/32849462236.html) [ESPHome docs](https://esphome.io/components/sensor/bme280.html) - Temperature, Pressure and Humidity Sensor
 - 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
 - 20x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 1x [5m 74px IP30, Black PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
@@ -101,7 +101,7 @@
 - 3x [50 px/LEDs per string, White wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
 - 3x [50 px/LEDs per string, Black wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
-- 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - 
+- 2x [BME680](https://www.aliexpress.com/item/32961369966.html) [ESPHome docs](https://esphome.io/components/sensor/bme680.html) - Temperature, Pressure, Humidity and Gas Sensor
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
@@ -131,7 +131,7 @@
 - 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
-- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - 
+- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) [ESPHome docs](https://esphome.io/components/sensor/as3935.html) - 
 - 4x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
 - 2x [Panel Screen 8px x 32px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [LILYGO® TTGO T-Camera, Fish-eye lense](https://m.aliexpress.com/item/32968683765.html) - 
