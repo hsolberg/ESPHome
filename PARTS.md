@@ -101,7 +101,7 @@
 - 3x [50 px/LEDs per string, White wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
 - 3x [50 px/LEDs per string, Black wire, WS2811, DC5V](https://m.aliexpress.com/item/33010869824.html) - 
 - 2x [Wired Doorbell Chime 12V DC](https://www.aliexpress.com/item/32966895779.html) - 
-- 2x [BME680](https://www.aliexpress.com/item/32961369966.html) [ESPHome docs](https://esphome.io/components/sensor/bme680.html) - Temperature, Pressure, Humidity and Gas Sensor
+- 2x [BME680](https://www.aliexpress.com/item/32961369966.html) - [ESPHome docs](https://esphome.io/components/sensor/bme680.html) - Temperature, Pressure, Humidity and Gas Sensor
 - 12x [ESP32S](https://www.aliexpress.com/item/32864722159.html) - 
 - 26x [Aluminum Channel clear (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
