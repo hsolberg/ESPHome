@@ -81,7 +81,7 @@
 - 6x [Sonoff S20](https://www.aliexpress.com/item/32854202946.html) - 
 - 6x [Flexible Flat Cable Extension 24PIN](https://www.aliexpress.com/item/33020782574.html) - 
 - 20x [Flexible Flat Cables 24PIN](https://www.aliexpress.com/item/32853717617.html) - 
-- 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) [ESPHome docs](https://esphome.io/components/sensor/ultrasonic.html) - Ultrasonic Distance Sensor
+- 4x [HC-SR04 Ultrasonic Wave Detector](https://www.aliexpress.com/item/32786781050.html) - [ESPHome docs](https://esphome.io/components/sensor/ultrasonic.html) - Ultrasonic Distance Sensor
 - 6x [LILYGO® OV2640 2MP Camera Module Fish-eye Lens](https://www.aliexpress.com/item/32981773363.html) - 
 - 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - PIR Sensor
 - 20x [LED indicator lights](https://www.aliexpress.com/item/32606955472.html) - 
@@ -131,7 +131,7 @@
 - 2x [Xiaomi MiFlora](https://m.aliexpress.com/item/4000464454228.html) - 
 - 26x [Aluminum Channel milky (50cm)](http://s.click.aliexpress.com/e/sHXT8lzI) - 13m total
 - 1x [5V 40A, Powersupply Rain-proof](https://m.aliexpress.com/item/32996958900.html) - 
-- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) [ESPHome docs](https://esphome.io/components/sensor/as3935.html) - 
+- 2x [AMS AS3935 Franklin Lightning Sensor](https://m.aliexpress.com/item/32953010870.html) - [ESPHome docs](https://esphome.io/components/sensor/as3935.html) - 
 - 4x [LILYGO Black PVC Case For TTGO T-Camera ESP32 WROVER](https://m.aliexpress.com/item/33034002960.html) - 
 - 2x [Panel Screen 8px x 32px, 256leds/px IP30, Black PCB, WS2812B, DC5V](https://m.aliexpress.com/item/4000169886463.html) - 
 - 2x [LILYGO® TTGO T-Camera, Fish-eye lense](https://m.aliexpress.com/item/32968683765.html) - 
