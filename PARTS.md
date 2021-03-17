@@ -6,20 +6,20 @@
 | ![ttgocam](images/ttgocam_fisheye_lense.jpg) | | |  |
 
 ## Cameras
-| | | | |
+| Liligo Lense (Long flatcable) | | | |
 |------------|-------------|-------------|-------------|
 | ![Lilygo Lense with long flatcable](images/lilygo_lense_long_flatcable.jpg) | | | |
 
 ## Displays
-| | | | |
+| OLED Display (Yellow-blue) | OLED Display (Blue) | OLED Display (White) | |
 |------------|-------------|-------------|-------------|
 | ![Yellow-blue OLED Display](images/oled_yellow_blue.jpg) | ![Blue OLED Display](images/oled_blue.jpg)  | ![White OLED Display](images/oled_white.jpg) | |
 
 ## Sensors
-|  |  |  |  |
+| AM312 PIR sensor | BME280 (Multisensor) | BME680 (Multisensor) | SRD-05VDC (Relay Module) |
 |------------|-------------|-------------|-------------|
 | ![AM312 Mini-PIR](images/AM312_Mini-PIR.jpg) | ![BME280](images/BME280.jpg) | ![BME680](images/BME680.jpg) | ![SRD-05VDC-SL-C](images/SRD-05VDC-SL-C.jpg) |
-|  |  |  |  |
+| BH1750 (Ambient light sensor) | CCS811 (Gas sensor) | HC-SR04 (Ultrasonic distance sensor) | AMS AS3935 (Lightning Sensor) |
 | ![BH1750](images/BH1750.jpg) | ![CCS811](images/CCS811.jpg) | ![HC-SR04 Ultrasonic Wave Detector](images/HC-SR04_Ultrasonic_Wave_Detector.jpg) | ![AMS AS3935 Franklin Lightning Sensor](images/AMS_AS3935_Franklin_Lightning_Sensor.JPG) |
 
 ## Devices
@@ -86,8 +86,8 @@
 - 6x [AM312 Mini-PIR](https://www.aliexpress.com/item/32749737125.html) - PIR Sensor
 - 20x [LED indicator lights](https://www.aliexpress.com/item/32606955472.html) - 
 - 4x [BH1750](https://www.aliexpress.com/item/32341898423.html) - Ambient Light Sensor
-- 2x [CCS811](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210316233240&origin=y&SearchText=CCS811) [ESPHome docs](https://esphome.io/components/sensor/ccs811.html) - CO_2 and Volatile Organic Compound Sensor
-- 4x [BME280](https://www.aliexpress.com/item/32849462236.html) [ESPHome docs](https://esphome.io/components/sensor/bme280.html) - Temperature, Pressure and Humidity Sensor
+- 2x [CCS811](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210316233240&origin=y&SearchText=CCS811) - [ESPHome docs](https://esphome.io/components/sensor/ccs811.html) - CO_2 and Volatile Organic Compound Sensor
+- 4x [BME280](https://www.aliexpress.com/item/32849462236.html) - [ESPHome docs](https://esphome.io/components/sensor/bme280.html) - Temperature, Pressure and Humidity Sensor
 - 14x [2.4G Antenna for ESP32](https://www.aliexpress.com/item/32840852173.html) - 
 - 20x [NodeMCU](http://s.click.aliexpress.com/e/pI2wgExm) - 
 - 1x [5m 74px IP30, Black PCB, WS2812B, DC5V](http://s.click.aliexpress.com/e/Kceu4gks) - 
