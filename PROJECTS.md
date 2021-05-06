@@ -68,10 +68,6 @@ text_sensor:
 
 # Sensors with general information.
 sensor:
-  # Uptime sensor.
-  - platform: uptime
-    name: Doorbell Uptime
-
   # WiFi Signal sensor.
   - platform: wifi_signal
     name: Doorbell WiFi Signal
@@ -198,8 +194,6 @@ sensor:
   - platform: wifi_signal
     name: $friendly_name WiFi Signal
     update_interval: 10s
-  - platform: uptime
-    name: $friendly_name Uptime
 
 esp32_camera:
   name: $friendly_name Camera
@@ -347,8 +341,6 @@ sensor:
       name: "Kitchen Xiaomi MiJia Humidity"
     battery_level:
       name: "Kitchen Xiaomi MiJia Battery Level"
-  - platform: uptime
-    name: "TempHub Uptime Sensor"
   - platform: wifi_signal
     name: "TempHub WiFi Signal Sensor"
     update_interval: 60s
@@ -495,8 +487,6 @@ sensor:
   - platform: wifi_signal
     name: $friendly_name WiFi Signal
     update_interval: 60s
-  - platform: uptime
-    name: $friendly_name Uptime
 
   - platform: homeassistant
     id: outside_temperature # internal id used by lambda
@@ -646,13 +636,11 @@ time:
 as3935_i2c:
   irq_pin: GPIO12
 
-# Uptime and WiFi signal
+WiFi signal
 sensor:
   - platform: wifi_signal
     name: $friendly_name WiFi Signal
     update_interval: 60s
-  - platform: uptime
-    name: $friendly_name Uptime
 
 # Configuration for creating sensors
   - platform: as3935
@@ -704,7 +692,6 @@ wifi:
     gateway: !secret gateway_ip
     subnet: !secret subnet_ip
 
-
 # Enable logging
 logger:
 
@@ -726,8 +713,6 @@ sensor:
   - platform: wifi_signal
     name: $friendly_name WiFi Signal
     update_interval: 60s
-  - platform: uptime
-    name: $friendly_name Uptime
 
   - platform: bme680
     temperature:
