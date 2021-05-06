@@ -636,7 +636,7 @@ time:
 as3935_i2c:
   irq_pin: GPIO12
 
-WiFi signal
+# WiFi signal
 sensor:
   - platform: wifi_signal
     name: $friendly_name WiFi Signal
